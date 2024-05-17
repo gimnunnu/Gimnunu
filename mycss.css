@@ -1,0 +1,40 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, 'Trebuchet MS', 'sans-serif';
+    margin: 0px;
+}
+
+header {
+    border: 1px solid rgb(118, 150, 160);
+    color: #efe5d0;
+    margin: 0px;
+    text-align: center;
+    padding: 5px;
+}
+
+h1 {
+    margin: 0px;
+}
+
+section#main {
+    float: left;
+    width: 70%;
+    height: 200px;
+    background-color: rgb(253, 224, 58);
+}
+
+nav {
+    float: left;
+    width: 30%;
+    height: 200px;
+}
+
+footer {
+    background-color: rgb(43, 94, 182);
+    color: whitesmoke;
+    text-align: center;
+    padding: 10px;
+    margin: 0px 0px 0px 0px;
+    font-size: 90%;
+    clear: both;
+}
